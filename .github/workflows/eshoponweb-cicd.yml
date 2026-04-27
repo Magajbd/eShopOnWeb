@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-jbd
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: XLabs-247
+  SUBSCRIPTION-ID: e765c61f-0786-4646-b28e-3e4f276399a8
   WEBAPP-NAME: eshoponweb-webapp-thislabsucks
 
 jobs:
